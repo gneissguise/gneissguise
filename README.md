@@ -43,6 +43,7 @@ Outside of professional software development:
 
 * I enjoy the process and precision involved in smoking foods on my **Traeger** grill.
 * Experimenting with system configurations and performance tuning on my **CachyOS Linux** setup is a regular pastime.
+* Upskilling and learning modern AI practices to keep my edge sharp.
 * I have an appreciation for geology and the natural processes that form structures like gneiss (hence the username!).
 
 ---
